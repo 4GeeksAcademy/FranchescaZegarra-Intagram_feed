@@ -1,0 +1,6 @@
+.galery img{
+    padding: 3px;
+    aspect-ratio: 1/1;
+    width:100%;
+    object-fit: cover;
+}
